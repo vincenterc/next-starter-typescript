@@ -1,5 +1,5 @@
-# next-typescript-starter
+# next-starter-typescript
 
-A starter template for [Next.js][].
+A starter for [Next.js][] with typescript.
 
 [Next.js]: https://nextjs.org
